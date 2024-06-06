@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Draytronics")(type "KiCad")(uri "${KIPRJMOD}/Draytronics.pretty")(options "")(descr ""))
+  (lib (name "Daisy")(type "KiCad")(uri "${KIPRJMOD}/Daisy.pretty")(options "")(descr ""))
+)
